@@ -1,7 +1,7 @@
 ---
-name: "[BACK OU FRONT] Titulo"
+name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[BACK OU FRONT] Titulo"
 labels: enhancement
 assignees: ''
 
